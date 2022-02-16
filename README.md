@@ -6,4 +6,4 @@ Keybindings and Options I like to use...
 Meant to be played with a Mouse as well, though no side-button support.
 
 I play with [NeoDays++](https://www.reddit.com/r/cataclysmdda/comments/rl2goi/my_own_take_on_neodays/),
-and an edited version of Ottopack Soundpack.
+and an edited version of [Otopack](https://discourse.cataclysmdda.org/t/soundpack-otopack/23190).
