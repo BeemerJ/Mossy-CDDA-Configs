@@ -1,4 +1,4 @@
-# mossmans-cdda-configs
+# MossMans CDDA Configs
 Keybindings (and Mousebindings) plus Options I like to use...
 > Try the Dev. Branch for more up-to-date configs.
 
